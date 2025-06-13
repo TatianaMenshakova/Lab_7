@@ -1,5 +1,5 @@
 body {
-  background-color: #0000b3;
+  background-color: #e6e6ff;
 	font-family: "Be Vietnam Pro", sans-serif;
 	color: #333;
   padding: 2rem;
@@ -36,7 +36,7 @@ h1 {
 	margin-left: auto;
   margin-right: auto;
 	padding: 1rem;
-	border-radius: 8px;
+	border-radius: 30px;
 	color: white;
 }
 	
@@ -66,5 +66,24 @@ h1 {
 #planets tr:nth-child(even) {
   background-color: #f9f9f9;
 }
+
+.link {
+	text-align: center;
+  font-size: 1.5rem;
+  margin-top: 2rem;
+	background-color: #00004d;
+	border: 1px solid white;
+	width: 43%;
+	margin-left: auto;
+  margin-right: auto;
+	padding: 1rem;
+	border-radius: 30px;
+	color: white;
+}
+
+.nasa {
+	color:white;
+}
+	
 
   
