@@ -67,6 +67,12 @@ td, th {
   object-fit: cover;
 }
 
+.planet-img:hover {
+  transform: scale(1.6);
+  position: relative;
+  border: none;
+}
+
 .link {
 	text-align: center;
   font-size: 1.5rem;
